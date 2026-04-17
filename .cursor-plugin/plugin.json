@@ -1,0 +1,28 @@
+{
+  "name": "superpowers1566",
+  "displayName": "Superpowers · 大明王朝1566",
+  "description": "以嘉靖朝堂体系重演的 Superpowers：TDD、调试、协作皆按祖制行之",
+  "version": "1.0.0",
+  "author": {
+    "name": "Superpowers1566 Contributors",
+    "email": "noreply@example.com"
+  },
+  "homepage": "https://github.com/obra/superpowers",
+  "repository": "https://github.com/obra/superpowers",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "tdd",
+    "debugging",
+    "collaboration",
+    "best-practices",
+    "workflows",
+    "1566",
+    "ming-dynasty",
+    "roleplay"
+  ],
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "commands": "./commands/",
+  "hooks": "./hooks/hooks-cursor.json"
+}

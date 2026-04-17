@@ -1,0 +1,20 @@
+{
+  "name": "superpowers1566-dev",
+  "description": "大明王朝1566 版 Superpowers 开发市场",
+  "owner": {
+    "name": "Superpowers1566 Contributors",
+    "email": "noreply@example.com"
+  },
+  "plugins": [
+    {
+      "name": "superpowers1566",
+      "description": "以嘉靖朝堂体系重演的 Superpowers：TDD、调试、协作皆按祖制行之",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Superpowers1566 Contributors",
+        "email": "noreply@example.com"
+      }
+    }
+  ]
+}
